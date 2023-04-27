@@ -14,4 +14,4 @@ To run the application on your local environment
 
 -scan the QR code with expo go 
 
-- change the baseURL to http://[your ip address]:5000/api
+- change the baseURL to http://[your ip address]:5000/api on [[path of the application]]/client/api/ApiManager.ts
