@@ -1,4 +1,4 @@
-To run the application on your local enironment 
+To run the application on your local environment
 
 // to run the backend
 
