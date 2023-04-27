@@ -2,7 +2,7 @@ To run the application on your local environment
 
 // to run the backend
 
--- cd <path of the application>/server
+-- cd [path of the application]/server
 -- npm install
 -- npm run dev
 
